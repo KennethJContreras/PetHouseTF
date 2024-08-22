@@ -1,6 +1,6 @@
 variable "project"{
     description = "the project name"
-    default = "pethouse"
+    default = "pethousepj"
 }
 
 variable "environment"{
